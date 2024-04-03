@@ -1,16 +1,22 @@
-### Hi there 👋
+### ¡Hola mundo! 👋
 
-<!--
-**fnavarro-dev/fnavarro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Desde Chile, soy un desarrollador FullStack** apasionado por compartir tanto mis proyectos como las lecciones aprendidas en mi camino formativo.
 
-Here are some ideas to get you started:
+🔭 **Actualmente me enfoco en el desarrollo mobile para Android**, convencido de que el futuro de la tecnología reside en la palma de nuestras manos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Mi rutina diaria es el aprendizaje continuo en Ingeniería en Informática**, siempre con la mirada puesta en cómo las innovaciones tecnológicas pueden enriquecer nuestras vidas.
+
+⚡ **Dato curioso**: Tengo un blog en [fnavarro.dev](https://fnavarro.dev) donde publico sobre tecnología, programación y más.
+
+---
+
+### Proyectos en desarrollo 🍳:
+- **Proyectos Mobile para Android**: Profundizando en las últimas tecnologías y frameworks.
+- **Colaboraciones Creativas**: Conectando con mentes creativas para materializar ideas innovadoras.
+
+### Encuéntrame en 🗺️:
+- **Página Web**: [fnavarro.dev](https://fnavarro.dev)
+- **LinkedIn**: [Francisco Navarro Flores](https://www.linkedin.com/in/francisco-navarro-flores/)
+
+¡Saludos y vamos por más! 💪
+
