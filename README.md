@@ -16,8 +16,9 @@ Estoy en proceso de obtener el título de Técnico de Nivel Superior en Informá
 - **Página Web Personal:** [fnavarro.dev](https://fnavarro.dev)
 - **LinkedIn:** [Francisco Navarro Flores](https://www.linkedin.com/in/francisco-navarro-flores)
 
-## 💡 Dato curioso:  
-Tengo un blog en [fnavarro.dev](https://fnavarro.dev) donde comparto artículos sobre tecnología, programación y más.
+## 💡 Dato curioso:    
+Tengo un blog en [fnavarro.dev](https://fnavarro.dev) donde comparto artículos sobre programación, negocios y empleo en Chile.
+
 
 ## 📈 Proyectos en desarrollo  
 - **Página Web Personal:** ¡Hay que promocionarse bien hombre!  
