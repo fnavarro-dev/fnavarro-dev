@@ -1,21 +1,27 @@
-### ¡Hola mundo! 👋
+🌐 ¿Quién soy?
+Soy Francisco Navarro, un desarrollador Android Trainee que aprovecha su experiencia como desarrollador FullStack, con un año de trayectoria, para especializarse en el desarrollo mobile. 
 
-🌐 **Soy un desarrollador FullStack desde Chile**. Aquí, comparto el repo de mis proyectos y clases en formación.
+🌍 ¿De dónde soy?
+Soy de Quilaco, un pequeño pueblo en la región del Biobío, Chile.
 
-🌱 **Actualmente me enfoco en el desarrollo mobile para Android**
+💼 ¿A qué me dedico?
+Actualmente, estoy enfocado en el desarrollo de aplicaciones móviles en Android. Además, estoy cursando la Ingeniería en Informática.
 
-⚡ **Dato curioso**: Tengo un blog en [fnavarro.dev](https://fnavarro.dev) donde publico sobre tecnología, programación y más.
+🎓 ¿Cuál es mi formación?
+Estoy en proceso de obtener el título de Técnico de Nivel Superior en Informática, y recientemente completé el curso de Desarrollo Mobile en Android y Kotlin de Talento Digital. Mi formación me dio las bases para programar apps Android, ¡así que se vienen nuevas apps chilenas con poca publicidad!
 
----
+📬 ¿Cómo y a través de qué medios me puedes contactar?
 
-### Proyectos en desarrollo 🍳:
-- **Página Web Personal**: Hay que promocionarse bien hombre.
-- **Bootcamp de Desarrollo Mobile en Android y Java**.
-- **Cursando la Ingeniería en Informática**.
+    Página Web Personal: fnavarro.dev
+    LinkedIn: Francisco Navarro Flores
 
-### Encuéntrame en 🗺️:
-- **Página Web**: [fnavarro.dev](https://fnavarro.dev)
-- **LinkedIn**: [Francisco Navarro Flores](https://www.linkedin.com/in/francisco-navarro-flores/)
+💡 Dato curioso:
+Tengo un blog en fnavarro.dev donde comparto artículos sobre tecnología, programación y más.
 
-¡Saludos y vamos por más! 💪
+📈 Proyectos en desarrollo
 
+    Página Web Personal: ¡Hay que promocionarse bien hombre!
+    Bootcamp de Desarrollo Mobile en Android y Kotlin.
+    Cursando la Ingeniería en Informática.
+
+¡Saludos cabros! 💪
