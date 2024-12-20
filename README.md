@@ -12,14 +12,13 @@ Actualmente, estoy enfocado en el desarrollo de aplicaciones móviles en Android
 
 ## 📬 ¿Cómo y a través de qué medios me puedes contactar?
 - **Correo Electrónico:** [francisconavarroflores@gmail.com](mailto:francisconavarroflores@gmail.com)
-- **LinkedIn:** [Francisco Navarro Flores](https://www.linkedin.com/in/francisco-navarro-flores)
 
 ## 💡 Dato curioso:    
 Tengo un blog en [fnavarro.dev](https://fnavarro.dev) donde comparto artículos sobre programación y la meta de hacer negocios en Chile.
 
 
 ## 📈 Proyectos en desarrollo  
-- **Página Web Personal:** ¡Hay que promocionarse bien hombre!  (Ya queda repoco, antes que acabe 2024)  
+- **Página Web Personal:** ¡Hay que promocionarse bien hombre!  (Antes que acabe 2024 gente)  
 
 ---
 
