@@ -19,8 +19,7 @@ Tengo un blog en [fnavarro.dev](https://fnavarro.dev) donde comparto artículos 
 
 
 ## 📈 Proyectos en desarrollo  
-- **Página Web Personal:** ¡Hay que promocionarse bien hombre!  (Y me falta harto para eso)  
-- **Cursando la Ingeniería en Informática.**
+- **Página Web Personal:** ¡Hay que promocionarse bien hombre!  (Ya queda repoco, antes que acabe 2024)  
 
 ---
 
