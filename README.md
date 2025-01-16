@@ -14,7 +14,7 @@ Actualmente, estoy enfocado en el desarrollo de aplicaciones móviles en Android
 - **Correo Electrónico:** [francisconavarroflores@gmail.com](mailto:francisconavarroflores@gmail.com)
 
 ## 💡 Dato curioso:    
-Tengo un blog en [fnavarro.dev](https://fnavarro.dev) donde comparto artículos sobre programación y la meta de hacer negocios en Chile.
+Tengo un blog en [devchileno.com](https://devchileno.com) donde comparto artículos sobre programación y la meta de hacer negocios en Chile.
 
 
 ## 📈 Proyectos en desarrollo  
